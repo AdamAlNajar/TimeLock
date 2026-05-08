@@ -15,6 +15,7 @@
 - 🔔 **System Tray Integration** - Runs silently in background
 - ⏰ **Real-time Countdown** - Visual timer shows remaining time
 - 💾 **Persistent Storage** - Profiles saved as JSON for easy backup
+- 🎯**Helps stay on task** - it does this by not allowing the user to stop blocking until timer ends
 
 ## 📋 Requirements
 
