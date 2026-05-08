@@ -1,0 +1,17 @@
+{
+    "Study":  {
+                  "Apps":  [
+
+                           ],
+                  "Minutes":  26,
+                  "Folders":  [
+                                  "C:\\Users\\Adam Al Najar\\Desktop\\Aseprite-v1.3.7",
+                                  "D:\\SteamLibrary",
+                                  "D:\\Unity Games"
+                              ],
+                  "ExePaths":  [
+                                   "C:\\Minecraft\\LL.exe",
+                                   "C:\\Program Files\\Proton\\VPN\\ProtonVPN.Launcher.exe"
+                               ]
+              }
+}

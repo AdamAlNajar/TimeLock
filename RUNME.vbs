@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -File ""TimeLock.ps1""", 0, False
